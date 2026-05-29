@@ -1,5 +1,5 @@
 # Project Name
-siddtharatha 
+siddtharath
 
 A short description of what this project does and why it exists.
 
