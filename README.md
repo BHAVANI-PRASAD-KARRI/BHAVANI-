@@ -15,3 +15,5 @@ Step-by-step instructions on how to install and set up the project.
 git clone https://github.com/username/project-name.git
 cd project-name
 npm install
+ok for the mote updates
+on go point
